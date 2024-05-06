@@ -1,4 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h3>Name: NAVEEN S</h3>
+<h3>Register Number: 212222110030</h3>
 <H3>Aim :</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -21,8 +23,6 @@ It is assumed that there will always be a safe path that the agent can take to e
 </p>
 <h1> PROGRAM:</h1>
 
-<h3>DEVELOPED BY : NAVEEN S </h3>
-<h3>REGISTER  NUMBER: 212222110030 </h3>
 
 ```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
